@@ -73,12 +73,12 @@ echo $HOME
 
 ### Compile
 ```bash
-gcc shell.c -o shell
+gcc myshell.c -o myshell
 ```
 
 ### Run
 ```bash
-./shell
+./myshell
 ```
 
 ---
